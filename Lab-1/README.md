@@ -60,7 +60,7 @@ A discrete-time signal is a type of signal that is defined only at specific, dis
 ## Unit step, unit impulse and unit ramp signal plotting code:
 
 ```matlab
-1. 1.	clc;
+1.	clc;
 2.	clear all;
 3.	close all;
 4.	 
@@ -91,7 +91,7 @@ A discrete-time signal is a type of signal that is defined only at specific, dis
 
 ## Plott:
 
-![](/plots/exp1code1.PNG)
+![](plots/exp1code1.PNG)
 
 **Fig.1.1** : Signal Plot
 
@@ -113,7 +113,7 @@ A discrete-time signal is a type of signal that is defined only at specific, dis
 
 ## Plot :
 
-![](/plots/exp1code2.PNG)
+![](plots/exp1code2.PNG)
 
 **Fig.1.2:** Discrete Signal
 
@@ -159,7 +159,7 @@ A discrete-time signal is a type of signal that is defined only at specific, dis
 
 ## plot :
 
-![](/plots/exp1code3.PNG)
+![](plots/exp1code3.PNG)
 
 **Fig.1.3:** Discrete Signal operation Plott
 
@@ -191,7 +191,7 @@ A discrete-time signal is a type of signal that is defined only at specific, dis
 
 ## Plot :
 
-![](/plots/exp1code4.PNG)
+![](plots/exp1code4.PNG)
 
 **Fig.1.4:** Continious Signal
 
